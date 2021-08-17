@@ -17,16 +17,16 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 - _subjects_: maths, physics, chemistry, earth science, Enlgish, Japanese, Japanese classics, Chinese classics, geography, ethics, politics and economics, world histroy and etc.
 
 ## Extra-curricular Activities
-# Cambridge University Eco Racing Society
+### Cambridge University Eco Racing Society
 
-# Winning 2nd Place and VB award of Venture-Bank Business Contest
+### Winning 2nd Place and VB award of Venture-Bank Business Contest
 - received £2,200 for winning award
 
-# Holding Japa  Youth Aerospace Academic Conference at Fukushima, Japan
+### Holding Japa  Youth Aerospace Academic Conference at Fukushima, Japan
 
-# HP Planet Mars
+### HP Planet Mars
 
-# International Trade Challenge by FedEx as a Japanese representative
+### International Trade Challenge by FedEx as a Japanese representative
 
 
 ## Work experiences
