@@ -45,7 +45,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](https://github.com/satoki22ti/profile/blob/gh-pages/plc_connection.jpg)
+![Image](https://github.com/satoki22ti/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
