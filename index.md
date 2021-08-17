@@ -6,16 +6,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Education
 ### Cambridge University Engineering at St John's College (2020-)
-BEng and MEng
+**BEng and MEng**
 - course syllabus can be found at
 - exam scores
 
 ### Kaisei Senior High School (2017-2020)
 Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 - Overall GPA 5.0/5.0 (two significant figures) (receiving honour prize for my academic performace)
-- subjects: maths, physics, chemistry, earth science, Enlgish, Japanese, Japanese classics, Chinese classics, geography, ethics, politics and economics, world histroy and etc.
+- _subjects_: maths, physics, chemistry, earth science, Enlgish, Japanese, Japanese classics, Chinese classics, geography, ethics, politics and economics, world histroy and etc.
 
 ## Extra-curricular Activities
+1.
+2.
+
 
 ## Work experiences
 
@@ -26,17 +29,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
