@@ -5,12 +5,19 @@ You can use the [editor on GitHub](https://github.com/satoki22ti/profile/edit/gh
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Education
-### Cambridge University Engineering at St John's College
-2020 autumn~
+### Cambridge University Engineering at St John's College (2020-)
+BEng and MEng
+- course syllabus can be found at
+- exam scores
 
-### Kaisei Senior High School
-2017~2020
+### Kaisei Senior High School (2017-2020)
+Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
+- Overall GPA 5.0/5.0 (two significant figures) (receiving honour prize for my academic performace)
+- subjects: maths, physics, chemistry, earth science, Enlgish, Japanese, Japanese classics, Chinese classics, geography, ethics, politics and economics, world histroy and etc.
 
+## Extra-curricular Activities
+
+## Work experiences
 
 ## Markdown
 
