@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Hi, name's Satoki Shimamune
 
 You can use the [editor on GitHub](https://github.com/satoki22ti/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Education
+### Cambridge University Engineering at St John's College
+2020 autumn~
+
+### Kaisei Senior High School
+2017~2020
+
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
