@@ -96,9 +96,9 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 
 ### Contact
 
--email
+- email
 ss2759     @cam.ac.uk (please remove the space)
--twitter
+- twitter
 @SatokiS1
--facebook
+- facebook
 https://www.facebook.com/satoki.shimamune
