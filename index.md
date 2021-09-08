@@ -6,7 +6,7 @@ This is my personal website.
 ## Education
 ### Cambridge University Engineering at St John's College (2020-)
 **BEng and MEng**
-- course syllabus can be found at
+- course syllabus can be found at [here](http://teaching.eng.cam.ac.uk/content/part-ib-syllabuses-links-line-resources)
 - exam scores
 
 ### Kaisei Senior High School (2017-2020)
@@ -15,7 +15,7 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 - _subjects_: maths, physics, chemistry, earth science, Enlgish, Japanese, Japanese classics, Chinese classics, geography, ethics, politics and economics, world histroy and etc.
 
 ## Extra-curricular Activities
-###Cambridge University Space Flight Society, Cambridge (Oct. 2020 - PRESENT)
+### Cambridge University Space Flight Society, Cambridge (Oct. 2020 - PRESENT)
 - Working in student club to design, develop and build a rocket.
 -	Mostly working on making recovery system and simulation of rockets using grid fins.
 
@@ -81,10 +81,10 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 
 ## Work experiences
 
-### Summer intern at ![Archipelago technology](https://www.archipelagotechnology.com/)
+### Summer intern at [Archipelago technology](https://www.archipelagotechnology.com/)
 - At Archipelago 
 
-### Summer intern at ![Aerosense](https://aerosense.co.jp/english)
+### Summer intern at [Aerosense](https://aerosense.co.jp/english)
 - Aerosense, a SONY and ZMP's joint venture, is a an industry leadnig UAV solution company.
 - Here at Aerosense, I was involved in a project about depth estimation of images for collision avoidance.  
 
