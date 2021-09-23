@@ -1,4 +1,4 @@
-# currently under maintainace
+
 ## Hi, name's Satoki Shimamune
 
 This is my personal website.
