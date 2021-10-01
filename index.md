@@ -1,7 +1,12 @@
 
-## Hi, name's Satoki Shimamune
+# Welcome to Satoki Shimamune's website
 
-This is my personal website.
+## Research
+- Patent JP6938005, **technology about stabilisation of VTOLs using the Magnus effect.**
+- Prototyping of the patent under the scholarship of Masason Foundation
+- Exploration of boundary layer control and the Magnus effect using 3D printing with Dr Kai Narita [his profile](http://labusers.net/~knarita/)
+
+
 
 ## Education
 ### Cambridge University Engineering at St John's College (2020-)
@@ -82,15 +87,11 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 ## Work experiences
 
 ### Summer intern at [Archipelago technology](https://www.archipelagotechnology.com/)
-- At Archipelago 
+- The task I tackled at Archipelago Technology was to develop an IoT system which enables Archipelago Technology’s employee to monitor machine conditions at Archipelago’s clients test facility. Conventionally people from Archipelago’s clients must monitor machine conditions using scopes and send the data to Archipelago Technology. This is labour demanding process, and my task was essentially to automate this process. One of the challenging parts of this task was that I need to make an IoT system which is compatible with high frequency data, since high frequency data requires faster processing and buffer to store data temporary due to the amount of data generated per second. To overcome this problem, a machine called AMCI analogue inspection and an IoT Gateway(Raspberry Pi) was introduced. With these tools, I made a prototype that can collect sensor values and save as csv files and remotely transfer these files to the company’s PC. 
 
 ### Summer intern at [Aerosense](https://aerosense.co.jp/english)
 - Aerosense, a SONY and ZMP's joint venture, is a an industry leadnig UAV solution company.
 - Here at Aerosense, I was involved in a project about depth estimation of images for collision avoidance.  
-
-
-
-![Image](https://github.com/satoki22ti/)
 
 
 
