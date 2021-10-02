@@ -12,7 +12,7 @@
 ### Cambridge University Engineering at St John's College (2020-)
 **BEng and MEng**
 - course syllabus can be found at [here](http://teaching.eng.cam.ac.uk/content/part-ib-syllabuses-links-line-resources)
-- exam scores
+- First-year exam: receiving Wright Prize and Townsend Scholarship from St John's College. (First Class equivalent)
 
 ### Kaisei Senior High School (2017-2020)
 Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
