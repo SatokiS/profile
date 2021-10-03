@@ -4,10 +4,13 @@
 ## Overview
 In three words, I am...
 ### passtionate
+I have joined a lot of projects, competitions. (c.f. Research and Extra-curricular Activities)
 
 ### hardworking
+I did two internship during 2021 summer. (c.f. Work experience)
 
 ### neworking
+My leverage enable me to have a strong network in Japanese industry and academia. (c.f.Extra-curricular Activities)
 
 ## Research
 - Patent JP6938005, **technology about stabilisation of VTOLs using the Magnus effect.**
