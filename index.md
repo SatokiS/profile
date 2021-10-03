@@ -1,6 +1,14 @@
 
 # Welcome to Satoki Shimamune's website
 
+## Overview
+In three words, I am...
+### passtionate
+
+### hardworking
+
+### neworking
+
 ## Research
 - Patent JP6938005, **technology about stabilisation of VTOLs using the Magnus effect.**
 - Prototyping of the patent under the scholarship of Masason Foundation
