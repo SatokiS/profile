@@ -7,13 +7,14 @@ In three words, I am...
 I have joined a lot of projects, competitions. (c.f. Research and Extra-curricular Activities)
 
 ### hardworking
-I did two internship during 2021 summer. (c.f. Work experience)
+I did two internships during 2021 summer. (c.f. Work experience)
 
-### neworking
+### networking
 My leverage enable me to have a strong network in Japanese industry and academia. (c.f.Extra-curricular Activities)
 
 ## Research
 - Patent JP6938005, **technology about stabilisation of VTOLs using the Magnus effect.**
+- [this link](https://drive.google.com/file/d/1R21Ooe4ygf6lwoEltZQ8YkSQFYlaipwT/view?usp=sharing) shows theoretical performances of the patent idea.
 - Prototyping of the patent under the scholarship of Masason Foundation
 - Exploration of boundary layer control and the Magnus effect using 3D printing with Dr Kai Narita [his profile](http://labusers.net/~knarita/)
 
