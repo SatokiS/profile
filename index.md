@@ -1,16 +1,15 @@
-
 # Welcome to Satoki Shimamune's website
 
 ## Overview
 In three words, I am...
-### passtionate
+### passionate
 I have joined a lot of projects, competitions. (c.f. Research and Extra-curricular Activities)
 
 ### hardworking
-I did two internships during 2021 summer. (c.f. Work experience)
+I did two internships during the 2021 summer. (c.f. Work experience)
 
 ### networking
-My leverage enable me to have a strong network in Japanese industry and academia. (c.f.Extra-curricular Activities)
+My leverage enables me to have a strong network in Japanese industry and academia. (c.f.Extra-curricular Activities)
 
 ## Research
 - Patent JP6938005, **technology about stabilisation of VTOLs using the Magnus effect.**
@@ -28,8 +27,8 @@ My leverage enable me to have a strong network in Japanese industry and academia
 
 ### Kaisei Senior High School (2017-2020)
 Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
-- Overall GPA 5.0/5.0 (two significant figures) (receiving honour prize for my academic performace)
-- _subjects_: maths, physics, chemistry, earth science, Enlgish, Japanese, Japanese classics, Chinese classics, geography, ethics, politics and economics, world histroy and etc.
+- Overall GPA 5.0/5.0 (two significant figures) (receiving honour prize for my academic performance)
+- _subjects_: maths, physics, chemistry, earth science, English, Japanese, Japanese classics, Chinese classics, geography, ethics, politics and economics, world history, etc.
 
 ## Extra-curricular Activities
 ### Cambridge University Space Flight Society, Cambridge (Oct. 2020 - PRESENT)
@@ -38,34 +37,34 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 
 ### Cambridge University Eco Racing Society, Cambridge (Oct. 2020 - PRESENT)
 -	Working in student club to design, develop and build a car.
--	Mainly working on FEA simulation of wishbone.
+-	Mainly working on FEA simulation of a wishbone.
 
 
-### Winning 2nd Place and VB award of Venture-Bank Business Contest(Sep. 2020)
+### Winning 2nd Place and VB award of Venture-Bank Business Contest(Sept. 2020)
 -	Business competition for all ages (most of the participants are adults)
 -	Winning VB award and receive £2,200(300,000 jpy)
 -	Proposing a business plan for data collection from the air or through the air
 -	Currently making the prototype of the product using the award
 
 ### Yanai Tadashi Scholarship	(Oct. 2020 - PRESENT)
--	Currently receiving scholarship which covers my whole university tuition fee and living expenses.
+-	Currently receiving a scholarship that covers my whole university tuition fee and living expenses.
 -	Website Japanese only (https://www.yanaitadashi-foundation.or.jp/)
 -	Mr Yanai, the founder of Fast retailing (UNIQLO, GU etc), established the foundation.
 
 ### Sony U24 Co-challenge 2020 finalist	(Feb.2020) 
 -	Idea competition for U24 by Sony
--	Proposing an electric assist bike with sensor to avert traffic accident against pedestrians and cars.
+-	Proposing an electric assist bike with a sensor to avert traffic accidents against pedestrians and cars.
 -	As for a business plan, I proposed the idea of data collection through the bikes’ sensor, utilizing for small autonomous vehicles’ practise data.
 
 ### Northrop Grumman UAV academy (San Diego USA) (Aug. 2019)
 -	Participated in the program as a scholarship student. (all the expenses were covered by Northrop Grumman)
--	Visiting Northrop Grumman’s UAV developing assembly and learn the process of development of UAVs.
+-	Visiting Northrop Grumman’s UAV developing assembly and learning the process of development of UAVs.
 
 ### Masason Foundation Scholar (June. 2019-PRESENT)
 -	Joining Masason Foundation as a 3rd generation scholar. (founded by **Masayoshi Son**, CEO of SoftBank and chairman of ARM)
--	Receiving research fund to further pursue my research. (especially UAVs) (maximum amount is about £40,000)
+-	Receiving research funds to further pursue my research. (especially UAVs) (maximum amount is about £40,000)
 -	The foundation’s webpage is https://masason-foundation.org/en/ 
--	My personal page (English ver.)  https://masason-foundation.org/en/cpt_testimonial/%E5%B3%B6%E5%AE%97-%E7%9F%A5%E7%94%9F/ 
+-	My page (English ver.)  https://masason-foundation.org/en/cpt_testimonial/%E5%B3%B6%E5%AE%97-%E7%9F%A5%E7%94%9F/ 
 
 ### Holding Japan Youth Aerospace Academic Conference at Fukushima, Japan (March. 2019)
 -	Held academic conference for high school students from entire Japan.
@@ -76,13 +75,13 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 ### CCC T-venture program	(December. 2018)
 -	Participated in a business competition held by CCC and joined as the only student (high school) team of three.
 -	Won TVP prize (second place).
--	Had the opportunity to have our plan checked by Vice-president of CCC and learnt essential things for a business.
--	Had the opportunity to talk with CEO of CCC for half an hour and was taught how to make a long-term strategy for the Japanese market.
+-	Had the opportunity to have our plan checked by the Vice-president of CCC and learnt essential things for a business.
+-	Had the opportunity to talk with the CEO of CCC for half an hour and was taught how to make a long-term strategy for the Japanese market.
 
-### Sponsorship with Prodrone and other company	(April. 2018)
+### Sponsorship with Prodrone and other companies	(April. 2018)
 -	Established a drone society at high school and secured sponsorship with PRODRONE (drone start-up), and another Japanese Company; total sponsorship on me was worth £8000.
 -	Developed a quiet winged drone using Helmholz cave, reducing the noise by 3%.
--	Succeeded in developing a drone which can fly horizontally without tilting.
+-	Succeeded in developing a drone that can fly horizontally without tilting.
 
 ### HP Planet Mars (the USA, online) 	(January. 2018)
 -	Participated in CAD competition as a Japanese representative team. (the theme was CAD of Mars City)
@@ -90,8 +89,8 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 -	Nominated as shortlist of Mechanical unit.
 
 ### International Trade Challenge by FedEx as a Japanese Representative (Singapore) (Aug. 2017)
--	Won the national competition, proposing tablet for the Indian market. (made a real prototype of a tablet)
--	As a Japanese representative, participated in international competition in Singapore.
+-	Won the national competition, proposing tablets for the Indian market. (made a real prototype of a tablet)
+-	As a Japanese representative, participated in an international competition in Singapore.
 -	Learnt how to do a business presentation from FedEx’s employee.
 
 
@@ -99,11 +98,11 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 ## Work experiences
 
 ### Summer intern at [Archipelago technology](https://www.archipelagotechnology.com/)
-- The task I tackled at Archipelago Technology was to develop an IoT system which enables Archipelago Technology’s employee to monitor machine conditions at Archipelago’s clients test facility. Conventionally people from Archipelago’s clients must monitor machine conditions using scopes and send the data to Archipelago Technology. This is labour demanding process, and my task was essentially to automate this process. One of the challenging parts of this task was that I need to make an IoT system which is compatible with high frequency data, since high frequency data requires faster processing and buffer to store data temporary due to the amount of data generated per second. To overcome this problem, a machine called AMCI analogue inspection and an IoT Gateway(Raspberry Pi) was introduced. With these tools, I made a prototype that can collect sensor values and save as csv files and remotely transfer these files to the company’s PC. 
+- The task I tackled at Archipelago Technology was to develop an IoT system that enables Archipelago Technology’s employees to monitor machine conditions at Archipelago’s clients' test facility. Conventionally people from Archipelago’s clients must monitor machine conditions using scopes and send the data to Archipelago Technology. This is labour demanding process, and my task was essentially to automate this process. One of the challenging parts of this task was that I need to make an IoT system that is compatible with high-frequency data since high-frequency data requires faster processing and buffer to store data temporary due to the amount of data generated per second. To overcome this problem, a machine called AMCI analogue inspection and an IoT Gateway(Raspberry Pi) was introduced. With these tools, I made a prototype that can collect sensor values and save them as CSV files and remotely transfer these files to the company’s PC. 
 
 ### Summer intern at [Aerosense](https://aerosense.co.jp/english)
-- Aerosense, a SONY and ZMP's joint venture, is a an industry leadnig UAV solution company.
-- Here at Aerosense, I was involved in a project about depth estimation of images for collision avoidance.  
+- Aerosense, a SONY and ZMP's joint venture, is an industry-leading UAV solution company.
+- Here at Aerosense, I have been involved in a project about depth estimation of images for collision avoidance.  
 
 
 
@@ -113,5 +112,6 @@ Japan Kotogakko Sotsugyo Shomeisho(Japanese Highschool deploma)
 ss2759     @cam.ac.uk (please remove the space)
 - twitter
 @SatokiS1
-- facebook
+- Facebook
 https://www.facebook.com/satoki.shimamune
+
