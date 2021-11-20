@@ -14,7 +14,7 @@ My leverage enable me to have a strong network in Japanese industry and academia
 
 ## Research
 - Patent JP6938005, **technology about stabilisation of VTOLs using the Magnus effect.**
-- [this link](https://drive.google.com/file/d/1R21Ooe4ygf6lwoEltZQ8YkSQFYlaipwT/view?usp=sharing) shows theoretical performances of the patent idea.
+- [this link](https://drive.google.com/file/d/1zRLFTNclgwGV-a5KmQ-_XSfV1VRpRASp/view?usp=sharing) shows theoretical performances of the patent idea.
 - Prototyping of the patent under the scholarship of Masason Foundation
 - Exploration of boundary layer control and the Magnus effect using 3D printing with Dr Kai Narita [his profile](http://labusers.net/~knarita/)
 
